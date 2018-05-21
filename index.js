@@ -2,7 +2,7 @@ var a
 var b 
 
 function add() {
-  
+  var a += var b 
 }
 
 it('add(a, b) adds two numbers and returns the result', function() {
